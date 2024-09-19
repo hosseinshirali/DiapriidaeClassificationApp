@@ -2,6 +2,18 @@
 
 This repository contains a machine learning application for predicting the genus and sex of Diapriidae and Ismaridae images using the Vision Transformer Architecture BEiTV2 and outlier detection (predict whether an insect does not belong to any of the learned classes). The application provides a user-friendly web interface for both single-image and batch processing.
 
+This repository is based on the work published in the following paper:
+
+**"Image-based recognition of parasitoid wasps using advanced neural networks"**
+
+You can access the full text of the paper here: [Full Text](https://www.publish.csiro.au/is/Fulltext/IS24011).
+
+### Original Repository
+
+The original repository for this project is hosted on GitLab. You can find it here:
+
+[GitLab Repository](https://gitlab.kit.edu/kit/iai/ber/diapriidaeclassificationapp)
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
